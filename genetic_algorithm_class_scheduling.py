@@ -69,7 +69,7 @@ class GeneticAlgorithm:
 		subpopulation_size = len(population[0])
 		parents_pop = []
 
-		for i in range(population_size):
+		for _ in range(population_size):
 			parents = []
 			for j in range(subpopulation_size):
 				k1 = random.randint(0, population_size-1)
