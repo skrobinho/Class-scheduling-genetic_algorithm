@@ -7,8 +7,8 @@ The individuals in the mating pool are called parents. Every two parents selecte
 
 In this case GA was used to create schedule based on students class time preferences and on limit on the number of students in classes.
 
-<img src='img/ga_scheme.png' />
 Genetic Algorithm scheme
+<img src='img/ga_scheme.png' />
 
-<img src='img/GA.png' />
 Genetic Algorithm steps in detail
+<img src='img/GA.png' />
